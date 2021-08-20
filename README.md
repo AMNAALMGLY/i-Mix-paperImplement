@@ -1,4 +1,4 @@
-# i-Mix-paper implementation
+# i-Mix paper implementation
 This is an un-official implementaion of the [i-MIX : A DOMAIN -A GNOSTIC STRATEGY FOR CONTRASTIVE  REPRESENTATION LEARNING](https://arxiv.org/pdf/2010.08887.pdf)-using pytorch.
 
 I got accuaracy of 72% on Tabular data as the one in the paper with SimCLR . More experiments coming soon.
